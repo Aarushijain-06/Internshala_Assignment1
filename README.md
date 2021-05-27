@@ -1,1 +1,1 @@
-# Internshala_Web-dev
+Internshala's HTML CSS Assignment
